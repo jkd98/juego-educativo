@@ -22,11 +22,11 @@ Descarga la versión disponible.
 Si quieres revisar o modificar el código, clona este repositorio.
 
 ## Videos de cada nivel:
-Nivel 1: https://drive.google.com/file/d/1WCCc9RglIiDS7BuvSeW8nM4kKFNm6AeV/view?usp=sharing
-Nivel 2: https://drive.google.com/file/d/1rQPuG6fDI3X_OFwEvQbwLtqnVgAjQvAQ/view?usp=sharing
-Nivel 3: https://drive.google.com/file/d/1ewzhY9lS4CERwihq69fWEuIHB7K7qZ70/view?usp=sharing
-Nivel 4: https://drive.google.com/file/d/1PiD6pwZo8oLLnniMsCpdqYe7rW206Klh/view?usp=sharing
-Nivel 5: https://drive.google.com/file/d/1s7S5d4K_hdjF1GiYvb-chqy8jy648WVF/view?usp=sharing
+* Nivel 1: https://drive.google.com/file/d/1WCCc9RglIiDS7BuvSeW8nM4kKFNm6AeV/view?usp=sharing
+* Nivel 2: https://drive.google.com/file/d/1rQPuG6fDI3X_OFwEvQbwLtqnVgAjQvAQ/view?usp=sharing
+* Nivel 3: https://drive.google.com/file/d/1ewzhY9lS4CERwihq69fWEuIHB7K7qZ70/view?usp=sharing
+* Nivel 4: https://drive.google.com/file/d/1PiD6pwZo8oLLnniMsCpdqYe7rW206Klh/view?usp=sharing
+* Nivel 5: https://drive.google.com/file/d/1s7S5d4K_hdjF1GiYvb-chqy8jy648WVF/view?usp=sharing
 
 
 
