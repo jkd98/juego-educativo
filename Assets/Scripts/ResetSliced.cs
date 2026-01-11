@@ -11,7 +11,7 @@ public class ResetSliced : MonoBehaviour
 
 
             //collision.transform.GetComponent<PlayerMove>().EliminarDeslizamientoManual();
-            collision.transform.GetComponent<PlayerMove>().ActivarReducVelocidadTemporal(4.0f, 3.0f);
+            collision.transform.GetComponent<PlayerMove>().RestablecerVelocidadNormal();
 
 
 

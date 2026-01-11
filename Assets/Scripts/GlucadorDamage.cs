@@ -12,6 +12,7 @@ public class GlucadorDamage : MonoBehaviour
             Debug.Log("Player Damage");
             //Destroy(collision.gameObject);
             collision.transform.GetComponent<PlayerRespawn>().PlayerDamage(); // Llama al método PlayerDamage del script PlayerRespawn
+            collision.transform.GetComponent<PlayerMove>().PicoVelicidad();
             collision.transform.GetComponent<PlayerMove>().ModificarSalto(6.0f);
 
         }

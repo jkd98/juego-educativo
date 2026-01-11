@@ -224,7 +224,23 @@ public class PlayerMove : MonoBehaviour
         
         Debug.Log($"Salto restablecido a valores normales. Salto: {jumpSpeed}, Doble salto: {doubleJumpSpeed}");
     }
+
+    public void PicoVelicidad()
+    {
+        runSpeed = originalRunSpeed * 3;
+    }
     
+    public void RestablecerVelocidadNormal()
+    {
+        runSpeed = originalRunSpeed;
+    }
+
+
+    public void LowVelocity()
+    {
+        runSpeed = originalRunSpeed * 0.5f;
+    }
+
     // --- MÉTODOS ÚTILES ADICIONALES ---
     
     /// <summary>
@@ -241,5 +257,10 @@ public class PlayerMove : MonoBehaviour
     public (float saltoOriginal, float dobleSaltoOriginal) ObtenerValoresSaltoOriginal()
     {
         return (originalJumpSpeed, originalDoubleJumpSpeed);
+    }
+
+    public void ActivarDeslizamiento()
+    {
+        
     }
 }

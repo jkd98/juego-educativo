@@ -4,17 +4,16 @@ using UnityEngine;
 
 public class CheckGround : MonoBehaviour
 {
-    public static bool isGrounded; //static para usar la variable en otro script
+     // Start is called before the first frame update
+    public static bool isGrounded;
 
-    //Para cuando el colider entre a una geometría
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        isGrounded = true;
+        if(collision.gameObject.CompareTag("Ground")) isGrounded = true;
     }
 
-    //Para cuando salga de una geometria
     private void OnTriggerExit2D(Collider2D collision)
     {
-        isGrounded = false;
+        if(collision.gameObject.CompareTag("Ground")) isGrounded = false;
     }
 }

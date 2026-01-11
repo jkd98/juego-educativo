@@ -411,7 +411,7 @@ AudioSource:
   m_PlayOnAwake: 1
   m_Volume: 0.509
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -1032,7 +1032,7 @@ GameObject:
   - component: {fileID: 859391233}
   m_Layer: 0
   m_Name: Tilemap
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9382,6 +9382,12 @@ MonoBehaviour:
   transitionLevel: {fileID: 1909591535}
   totalFruitsText: {fileID: 1928452034}
   fruitsCollected: {fileID: 1529114332}
+  energyBar:
+  - {fileID: 455513518105715177}
+  - {fileID: 455513518105715176}
+  - {fileID: 455513518105715175}
+  - {fileID: 455513518105715174}
+  - {fileID: 455513518105715173}
 --- !u!4 &1615085687
 Transform:
   m_ObjectHideFlags: 0
@@ -9882,6 +9888,31 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b8c678afe2e03deb6a7faedd177e57b8, type: 3}
+--- !u!1 &455513518105715173 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7209349816216239936, guid: b8c678afe2e03deb6a7faedd177e57b8, type: 3}
+  m_PrefabInstance: {fileID: 455513518105715172}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &455513518105715174 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7885770322520298279, guid: b8c678afe2e03deb6a7faedd177e57b8, type: 3}
+  m_PrefabInstance: {fileID: 455513518105715172}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &455513518105715175 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8239659409528626992, guid: b8c678afe2e03deb6a7faedd177e57b8, type: 3}
+  m_PrefabInstance: {fileID: 455513518105715172}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &455513518105715176 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4096456577922367884, guid: b8c678afe2e03deb6a7faedd177e57b8, type: 3}
+  m_PrefabInstance: {fileID: 455513518105715172}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &455513518105715177 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8296158372297036443, guid: b8c678afe2e03deb6a7faedd177e57b8, type: 3}
+  m_PrefabInstance: {fileID: 455513518105715172}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &3023631828068113818
 PrefabInstance:
   m_ObjectHideFlags: 0

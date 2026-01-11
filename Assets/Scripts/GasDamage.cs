@@ -13,7 +13,8 @@ public class GasDamage : MonoBehaviour
             //Destroy(collision.gameObject);
             collision.transform.GetComponent<PlayerRespawn>().PlayerDamage(); // Llama al método PlayerDamage del script PlayerRespawn
             //collision.transform.GetComponent<PlayerMove>().ActivarDeslizamiento(4f);
-            collision.transform.GetComponent<PlayerMove>().ActivarReducVelocidadTemporal(0.8f, 10.0f);
+            collision.transform.GetComponent<PlayerMove>().ModificarSalto(1.5f);
+            collision.transform.GetComponent<PlayerMove>().LowVelocity();
 
         }
     }
