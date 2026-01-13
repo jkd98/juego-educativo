@@ -72,7 +72,7 @@ public class FruitManager : MonoBehaviour
             // Es crucial que esta lógica se ejecute solo una vez.
             if (!IsInvoking("ChangeScene"))
             {
-                Invoke("ChangeScene", 2f);
+                Invoke("ChangeScene", 4f);
             }
         }
     }
