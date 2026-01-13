@@ -49,6 +49,9 @@ Para fines académicos y de cumplimiento, puedes consultar el análisis de propi
 ## 🧑‍💻 Autor
 **Juan David Lara Robles** *Desarrollador de Videojuegos Independiente*
 
+### Presentación
+https://docs.google.com/presentation/d/1c13rw862tFWXAuYh7Ytl6tsyCIMfUwAOY8RCQqD8JdM/edit?usp=sharing
+
 
 
 
