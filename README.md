@@ -34,7 +34,7 @@ Puedes probar el juego en tu plataforma preferida:
 ## ⚖️ Documentación Legal
 Para fines académicos y de cumplimiento, puedes consultar el análisis de propiedad intelectual y normativa aquí:
 
-👉 [**Documento de Aspectos Legales (PDF)**](https://docs.google.com/document/d/1HjIQeFGkFtXLgaj4tpftlst2JrI-ndNLU-PEhBeRarA/edit?usp=sharing)
+👉 [**Documento de Aspectos Legales**](https://docs.google.com/document/d/1HjIQeFGkFtXLgaj4tpftlst2JrI-ndNLU-PEhBeRarA/edit?usp=sharing)
 
 ---
 
@@ -49,8 +49,7 @@ Para fines académicos y de cumplimiento, puedes consultar el análisis de propi
 ## 🧑‍💻 Autor
 **Juan David Lara Robles** *Desarrollador de Videojuegos Independiente*
 
----
-*Desarrollado con ❤️ para fomentar hábitos saludables.*
+
 
 
 
